@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+
+<Library>
+
+    <location>
+        <Street>66 st</Street>
+        <BuildingNumber>84</BuildingNumber>
+        <Region>sisdibeshr</Region>
+        <City>Alexandria</City>
+        <country>Egypt</country>
+    </location>
+
+    <description>
+        this is your place for knowledge , choose any books , read and pay later.
+    </description>
+
+    <librarian>
+        <name>Mohamed Yossef</name>
+        <age>27</age>
+    </librarian>
+
+    <books>
+
+        <book>
+
+            <title>
+                Band Of Idiots
+            </title>
+
+            <ISBN>
+               10
+            </ISBN>
+
+            <Author>
+               Arsene Wenger
+            </Author>
+
+            <Part>
+                <title>
+                    Help!
+                </title>
+                <chapters>
+                    <chapter>
+                        <title>
+                            welcome home
+                        </title>
+                        <summary>
+                            Band Of IdiotsBand Of IdiotsBand Of Idiots Band Of IdiotsBand Of IdiotsBand Of IdiotsBand Of Idiots
+                        </summary>
+                        <sections>
+                            <section>
+                                <content>
+                                    Band Of IdiotsBand Of IdiotsBand Of IdiotsBand Of IdiotsBand Of Idiot  Of IdiotsBand Of Idiot Of IdiotsBand Of Idiot Of IdiotsBand Of Idiot Of IdiotsBand Of Idiot Of IdiotsBand Of Idiot Of IdiotsBand Of Idiot
+                                </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </Part>
+        </book>
+    </books>
+</Library>

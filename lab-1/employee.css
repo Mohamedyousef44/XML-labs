@@ -1,0 +1,69 @@
+
+email,
+mobile,
+telephone,
+employees,
+employee,
+name,
+addresses,
+phones
+{
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    color:#E4DCCF;
+}
+
+employees:before {
+    display: block;
+    width: 8em;
+    font-weight: bold;
+    font-size: 200%;
+    content: "EMPS";
+    margin: -.75em 0px .25em -.25em;
+    padding: .1em .25em;
+    background-color: #B8621B;
+}
+
+employees{
+    margin: 2em 1em;
+    border: 4px solid #E3CCAE;
+    padding: 0 2em;
+    background-color: #262A56;
+}
+
+
+employee {
+    margin-top: 2em;
+    border-bottom :solid 4px #E3CCAE;
+    padding-bottom: 1em;
+}
+
+name {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+  
+email:before {
+    content: "Email: ";
+    font-weight: bold;
+    color: red;
+}
+  
+phones:before {
+    content: "Phones: ";
+    font-weight: bold;
+    color: red;
+}
+
+addresses:before {
+    content: "Addresses: ";
+    font-weight: bold;
+    color: red;
+}
+
+BuildingNumber:before , Region:before , City:before , country:before {
+    content: ", ";
+
+}
+

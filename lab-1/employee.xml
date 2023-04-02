@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="employee.css"?>
+
+<employees>
+
+    <employee>
+
+        <name>Mohamed Yossef</name>
+
+        <email>2020.m@gmail.com</email>
+
+        <phones>
+
+            <phone type="mobile">01285287955</phone>
+            <phone type="work">01285287955</phone>
+            <phone type="home" >5342863</phone>
+
+        </phones>
+
+        <addresses>
+
+            <address>
+
+                <Street>66 st</Street>
+                <BuildingNumber>84</BuildingNumber>
+                <Region>sisdibeshr</Region>
+                <City>Alexandria</City>
+                <country>Egypt</country>
+            
+            </address>
+
+        </addresses>
+
+    </employee>
+    <employee>
+
+        <name>Mohamed Yossef</name>
+
+        <email>2020.m@gmail.com</email>
+
+        <phones>
+
+            <phone type="mobile">01285287955</phone>
+            <phone type="work">01285287955</phone>
+            <phone type="home" >5342863</phone>
+
+        </phones>
+
+        <addresses>
+
+            <address>
+
+                <Street>66 st</Street>
+                <BuildingNumber>84</BuildingNumber>
+                <Region>sisdibeshr</Region>
+                <City>Alexandria</City>
+                <country>Egypt</country>
+            
+            </address>
+
+        </addresses>
+
+    </employee>
+    <employee>
+
+        <name>Mohamed Yossef</name>
+
+        <email>2020.m@gmail.com</email>
+
+        <phones>
+
+            <phone type="mobile">01285287955</phone>
+            <phone type="work">01285287955</phone>
+            <phone type="home" >5342863</phone>
+
+        </phones>
+
+        <addresses>
+
+            <address>
+
+                <Street>66 st</Street>
+                <BuildingNumber>84</BuildingNumber>
+                <Region>sisdibeshr</Region>
+                <City>Alexandria</City>
+                <country>Egypt</country>
+            
+            </address>
+
+        </addresses>
+
+    </employee>
+
+    
+</employees>
