@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="employee.css"?>
+<employee>
+
+    <person> 
+        <name>mohamed</name>
+        <phone>01285189755</phone>
+        <address>sidibeshr</address>
+        <email>20@gmail.com</email>
+    </person>
+    
+    <person> 
+        <name>mohamed</name>
+        <phone>01285189755</phone>
+        <address>sidibeshr</address>
+        <email>20@gmail.com</email>
+    </person>
+
+</employee>
