@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp.xsl"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/USER/Desktop/XML%20labs/lab-3/emp.xsd">
+	<employee>
+		<name>Mohamed Yossef</name>
+		<email>2020.m@gmail.com</email>
+		<phones>
+			<phone type="mobile">01285287955</phone>
+			<phone type="work">01285287955</phone>
+			<phone type="home">5342863</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>66 st</Street>
+				<BuildingNumber>84</BuildingNumber>
+				<Region>sisdibeshr</Region>
+				<City>Alex</City>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+	</employee>
+	<employee>
+		<name>hossam abba</name>
+		<email>2020.m@gmail.com</email>
+		<phones>
+			<phone type="mobile">01285287955</phone>
+			<phone type="work">01285287955</phone>
+			<phone type="home">5342863</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>66 st</Street>
+				<BuildingNumber>84</BuildingNumber>
+				<Region>sisdibeshr</Region>
+				<City>Alex</City>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+	</employee>
+	<employee>
+		<name>Ahmed slah</name>
+		<email>2020.m@gmail.com</email>
+		<phones>
+			<phone type="mobile">01285287955</phone>
+			<phone type="work">01285287955</phone>
+			<phone type="home">5342863</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>66 st</Street>
+				<BuildingNumber>84</BuildingNumber>
+				<Region>sisdibeshr</Region>
+				<City>Alex</City>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+	</employee>
+</employees>
